@@ -6,38 +6,9 @@
 
 /*HERO*/
 
-.hero-btn {
-  background: #4d5ae5;
-  color: #fff;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  cursor: pointer;
-  border: none;
-  display: block;
-  min-width: 169px;
-  height: 56px;
-  border-radius: 4px;
-  padding: 16px 32px;
-  margin: 0 auto;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.hero-btn:hover {
-  background-color: #404bbf;
-}
-
-.hero-btn:focus {
-  background-color: #404bbf;
-}
-
 /*BENEFITS*/
 
-.benefits {
-  padding: 120px 0;
-}
-
+/* перепитати */
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -49,42 +20,6 @@
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-}
-
-.benefits-list {
-  display: flex;
-  gap: 24px;
-}
-
-.benefits-item {
-  width: calc((100% - 72px) / 4);
-}
-
-.benefits-subtitle {
-  color: #2e2f42;
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  margin-bottom: 8px;
-}
-
-.benefits-item-text {
-  color: #434455;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-
-.icons-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 112px;
-  background-color: #f4f4fd;
-  border-radius: 4px;
-  margin-bottom: 8px;
-  border: 1px solid #8e8f99;
 }
 
 /* Our Team */

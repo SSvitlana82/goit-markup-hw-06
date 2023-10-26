@@ -24,27 +24,6 @@
 
 /* Our Team */
 
-.team {
-  background: #f4f4fd;
-  padding: 120px 0;
-}
-
-.team-title {
-  color: #2e2f42;
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  text-transform: capitalize;
-  text-align: center;
-  margin-bottom: 72px;
-}
-
-.team-list {
-  display: flex;
-  gap: 24px;
-}
-
 .team-item {
   background: #fff;
   width: calc((100% - 72px) / 4);

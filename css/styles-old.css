@@ -6,21 +6,6 @@
 
 /*HERO*/
 
-.hero {
-  background: #2e2f42;
-  padding: 188px 0;
-  background-image: linear-gradient(
-      rgba(46, 47, 66, 0.7),
-      rgba(46, 47, 66, 0.7)
-    ),
-    url(../images/hero-people-office-desk.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  max-width: 1440px;
-  margin: 0 auto;
-}
-
 .hero-title {
   color: #fff;
   font-size: 56px;
